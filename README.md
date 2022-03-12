@@ -6,7 +6,6 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -16,9 +15,13 @@
 
 ### The challenge
 
+The purpose of this challenge is to build a responsive advice generator app using the [Advice Slip API](https://api.adviceslip.com/).
+
 Users should be able to:
 
-- Click the dice to generate a random piece of advice
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
 
@@ -26,11 +29,8 @@ Users should be able to:
 
 
 ### Links
+- Link to live site: [Advice Generator](https://johannt91.github.io/advice-generator/)
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
@@ -38,12 +38,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
-
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
